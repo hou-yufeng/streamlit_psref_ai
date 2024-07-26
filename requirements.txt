@@ -1,2 +1,1 @@
-from zhipuai import ZhipuAI
-import streamlit as st
+pip install zhipuai
